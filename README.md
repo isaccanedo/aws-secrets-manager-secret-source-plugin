@@ -1,4 +1,4 @@
-# AWS Secrets Manager SecretSource
+# Back-end do AWS Secrets Manager para a API Jenkins SecretSource
 
 [![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/aws-secrets-manager-secret-source-plugin/main)](https://ci.jenkins.io/blue/organizations/jenkins/Plugins%2Faws-secrets-manager-secret-source-plugin/activity/)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/aws-secrets-manager-secret-source.svg)](https://plugins.jenkins.io/aws-secrets-manager-secret-source)
